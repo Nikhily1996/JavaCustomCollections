@@ -1,4 +1,4 @@
-package hashMapCustomPackage;
+package HashMap.hashMapCustomPackage;
 class HashMapCustom<K, V> {
     private KeyValuePair<K,V>[] table;   //Array of Entry.
     private int capacity= 4;  //Initial capacity of HashMap

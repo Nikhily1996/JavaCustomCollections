@@ -1,4 +1,4 @@
-package hashMapCustomPackage;
+package HashMap.hashMapCustomPackage;
 import java.util.Scanner; 
 public class HashMapCustomApp {
     public static void main(String[] args) {
